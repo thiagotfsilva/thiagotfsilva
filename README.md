@@ -13,12 +13,11 @@ I'm a passionate **Software Developer** based in Recife, PE, Brazil. I love solv
 
 Here are some technologies and tools that I have worked with across my repositories:
 
-- **Programming Languages:** (Technologies will be listed here after analysis)
-- **Frameworks & Libraries:** 
-- **Tools:** 
-- **Cloud & DevOps:** 
-
-*This section will be updated to include specific technologies from your repositories.*
+- **Languages:** TypeScript, JavaScript (Node.js), Go, Java, PHP
+- **Frontend:** React, Material-UI (MUI), Bootstrap, Tailwind CSS
+- **Backend/Frameworks:** Express, Koa, AdonisJS, NestJS, Spring, Laravel, GraphQL
+- **DevOps/Infra:** Docker, Nginx, Linux
+- **Others:** API design, Microservices, REST, GraphQL
 
 ## 📈 GitHub Stats
 
